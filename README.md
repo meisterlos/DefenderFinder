@@ -1,5 +1,5 @@
 DefenderFinder aracı cihaz üzerinde çalışan antivirüs programlarını tespit etmeye yaramaktadır. Sızma testinde defence evasion aşamasında kullanılmaktadır.
-Cihaz üzerinde antivirüs programı olmayan cihazda kodu çalıştırdığımızda no antivirus software detected cevabı dönmektedir.
+Cihaz üzerinde antivirüs programı olmayan cihazda programı çalıştırdığımızda no antivirus software detected cevabı dönmektedir.
 
 ![0](https://github.com/meisterlos/DefenderFinder/assets/81145753/2713365e-481b-49df-8ca3-b2919f240c94)
 
